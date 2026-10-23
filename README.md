@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hasan Hüseyin
-- 🎓 1st year Computer Engineering student at AGU
+- 🎓 2nd year Computer Engineering student at AGU
 - 💻 Learning C and Python
 - 🔧 Interested in Embedded Systems, Computer Architecture
 
